@@ -1,0 +1,2 @@
+# exe
+brick your pc
