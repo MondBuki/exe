@@ -1,0 +1,5 @@
+Do
+
+msgBox(":)")
+
+loop
